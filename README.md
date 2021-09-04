@@ -1,11 +1,10 @@
 
 
+### Oi! Eu sou o Iuri 
+
 <div style="display: inline_block"><br>
   <img height="50em" alt="Rubik's" align="right" src="https://media4.giphy.com/media/2pc14LWinnQrK/giphy.gif?cid=ecf05e47xdmis87rvkhrfe1cuiiyoaxpmiqdrajnxrv0vrdv&rid=giphy.gif&ct=g">
 </div>
-
-### Oi! Eu sou o Iuri 
-
 
 - 🔭 Analista de Processos
 - ⚙  Engenheiro Eletricista (UNIFEI)
