@@ -8,6 +8,7 @@
 
 - 🔭 Analista de Processos
 - ⚙  Engenheiro Eletricista (UNIFEI)
+- 👾 Geek
 - 🌱 Começando a estudar Web Dev (JavaScript, HTML5, CSS, NODE.js) - Wev dev loading <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g">
 - 🎮 Començando estudos em Game Dev (C#, Unity) - Me chama pra aprender junto na próxima Game Jam!
 - 👯 Desafios na área de programação me encantam
