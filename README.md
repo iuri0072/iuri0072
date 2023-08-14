@@ -6,7 +6,7 @@
   <img height="50em" alt="Rubik's" align="right" src="https://media4.giphy.com/media/2pc14LWinnQrK/giphy.gif?cid=ecf05e47xdmis87rvkhrfe1cuiiyoaxpmiqdrajnxrv0vrdv&rid=giphy.gif&ct=g">
 </div>
 
-- 🔭 Analista de Processos
+- 🔭 Digital Transformation
 - ⚙  Engenheiro Eletricista (UNIFEI)
 - 👾 Geek
 - 🌱 Começando estudos em Web Dev (JavaScript, HTML, CSS, NODE.js) - Web dev loading <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g">
