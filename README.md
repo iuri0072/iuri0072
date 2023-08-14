@@ -28,4 +28,5 @@
 <div>
   <a href="https://linkedin.com/in/iuri0072" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/iuri0072" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://itch.io/profile/iuri0072" target="_blank"><img src="https://img.shields.io/badge/itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
 </div>
